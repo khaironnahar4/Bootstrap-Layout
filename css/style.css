@@ -1,0 +1,22 @@
+.header, .hero, .body, .bar, .footer {
+    background-color: rgb(250, 198, 198);
+}
+h1 {
+    font-size: 24px;
+    color: black;
+    padding-top: 10px;
+}
+.box {
+    font-size: 24px;
+    color: whitesmoke;
+    background-color: rgb(97, 171, 255);
+    text-align: center;
+    padding: 12px 0;
+    border: 2px solid rgb(77, 77, 77);
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    border: 6px solid yellowgreen;
+}
